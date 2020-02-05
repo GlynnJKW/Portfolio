@@ -2,6 +2,7 @@
 
 Backend bot sends information about who is in/joins/leaves a channel as well as whether they are speaking and their volume if they are.
 
+Example: https://youtu.be/4YLaKsaTjl4?t=10052
 
 ## OBS Midi control
 
